@@ -1,2 +1,10 @@
-# ErrorTemplatePage
-404 Error Page to redirect users to a new section of the website, rather then standard 404 error text.
+# Error 404 Template Page
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
