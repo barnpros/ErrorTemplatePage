@@ -2,11 +2,11 @@
 
 ## TABLE OF CONTENTS
 
-[Technologies Used](#technologies-used)
-[Link to Page](#link-to-page)
-[License](#license)
-[How to USE](#how-to-use)
-[Contact](#contact)
+- [Technologies Used](#technologies-used)
+- [Link to Page](#link-to-page)
+- [License](#license)
+- [How to USE](#how-to-use)
+- [Contact](#contact)
 
 ## Technologies Used
 
